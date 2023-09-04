@@ -13,7 +13,7 @@ except ModuleNotFoundError:
     os.system('pip install requests bs4 futures==2 > /dev/null')
     os.system('python SALLAH.py')
 	
-os.system('xdg-open https://www.facebook.com/harwinder.singh.921230')
+os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923
 
 try:
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
@@ -145,7 +145,7 @@ device = {
         'fbsv':fbsv,
         'fbca':fbca,
         'fbdm':fbdm}
-os.system('xdg-open https://www.facebook.com/harwinder.singh.921230')
+os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923
 ##______COLORS____ARE________######
 pwx=[]
 W = '\033[97;1m'
@@ -168,16 +168,16 @@ EXTRA ='\x1b[38;5;208m'
 
         
 logo=(f"""{WHITE}
- \033[1;33m.d8888.  .d8b.  db      db       .d8b.  db   db 
+ \033[1;35m.d8888.  .d8b.  db      db       .d8b.  db   db 
  \033[1;32m88'  YP d8' `8b 88      88      d8' `8b 88   88 
- \033[1;37m`8bo.   88ooo88 88      88      88ooo88 88ooo88 
+ \033[1;36m`8bo.   88ooo88 88      88      88ooo88 88ooo88 
    \033[1;34m`Y8b. 88~~~88 88      88      88~~~88 88~~~88 
  \033[1;32mdb   8D 88   88 88booo. 88booo. 88   88 88   88 
- \033[1;33m`8888Y' YP   YP Y88888P Y88888P YP   YP YP   YP 
-\033[1;35m------------------------------------------------------)                                                                    
-{WHITE}[•] OWNER        :  Muhammad Sallah x Zaheer 
+ \033[1;35m`8888Y' YP   YP Y88888P Y88888P YP   YP YP   YP 
+\033[1;33m------------------------------------------------------)                                                                    
+{WHITE}[•] OWNER        :  Muhammad Sallah Luhur 
 {WHITE}[•] FaceBook     :  Muhammad muavia baloch
-[•] TRICKER     :  Z.MuKhLiS 
+[•] TRICKER      :  Z.MuKhLiS 
 [•] Version      :   {RED}1.0
 {WHITE}[•] TOOL STATUS. :  FREE  
 \033[1;32m=====================================================""")
