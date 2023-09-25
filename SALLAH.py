@@ -13,7 +13,7 @@ except ModuleNotFoundError:
     os.system('pip install requests bs4 futures==2 > /dev/null')
     os.system('python SALLAH.py')
 	
-os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923`)
+#os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923`)
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
