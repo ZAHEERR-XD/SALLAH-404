@@ -177,7 +177,7 @@ logo=(f"""{WHITE}
  \033[1;32mdb   8D 88   88 88booo. 88booo. 88   88 88   88 
  \033[1;35m`8888Y' YP   YP Y88888P Y88888P YP   YP YP   YP 
 \033[1;33m------------------------------------------------------')                                                                    
-{WHITE}[•] OWNER        :  \033[1;35mMuhammad Sallah Luhur 
+{WHITE}[•] OWNER        :  \033[1;35mMuhammad Sallah Baloch
 {WHITE}[•] FaceBook     :  \033[1;33mMuhammad muavia baloch
 {WHITE}[•] TRICKER      :  \033[1;34mZ.MuKhLiS 
 {WHITE}[•] Version      :   {RED}2.1
