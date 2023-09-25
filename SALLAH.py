@@ -176,15 +176,15 @@ logo=(f"""{WHITE}
    \033[1;34m`Y8b. 88~~~88 88      88      88~~~88 88~~~88 
  \033[1;32mdb   8D 88   88 88booo. 88booo. 88   88 88   88 
  \033[1;35m`8888Y' YP   YP Y88888P Y88888P YP   YP YP   YP 
-\033[1;33m------------------------------------------------------)                                                                    
-{WHITE}[•] OWNER        :  Muhammad Sallah Luhur 
-{WHITE}[•] FaceBook     :  Muhammad muavia baloch
-[•] TRICKER      :  Z.MuKhLiS 
-[•] Version      :   {RED}1.0
-{WHITE}[•] TOOL STATUS. :  FREE  
+\033[1;33m------------------------------------------------------')                                                                    
+{WHITE}[•] OWNER        :  \033[1;35mMuhammad Sallah Luhur 
+{WHITE}[•] FaceBook     :  \033[1;33mMuhammad muavia baloch
+{WHITE}[•] TRICKER      :  \033[1;34mZ.MuKhLiS 
+{WHITE}[•] Version      :   {RED}2.1
+{WHITE}[•] TOOL STATUS. :  \033[1;32mFREE  
 \033[1;32m=====================================================""")
 def linex():
-    print('\033[1;37m---------------------------------------------------')
+    print('\033[1;37m---------------------------------------------------{WHITE}')
 
 def clear():
         os.system('clear')
