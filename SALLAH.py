@@ -13,7 +13,7 @@ except ModuleNotFoundError:
     os.system('pip install requests bs4 futures==2 > /dev/null')
     os.system('python SALLAH.py')
 	
-os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923 
+os.system('xdg-open https://www.facebook.com/zafarjaan.baloch.7923`) 
 
 try:
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
