@@ -179,9 +179,9 @@ logo=(f"""{WHITE}
 \033[1;33m------------------------------------------------------')                                                                    
 {WHITE}[•] OWNER        :  \033[1;35mMuhammad Sallah Baloch
 {WHITE}[•] FaceBook     :  \033[1;33mMuhammad muavia baloch
-{WHITE}[•] TRICKER      :  \033[1;34mZ.MuKhLiS 
+{WHITE}[•] TRICKER      :  \033[1;34mMS.BALOCH 
 {WHITE}[•] Version      :   {RED}2.1
-{WHITE}[•] TOOL STATUS. :  \033[1;32mFREE  
+{WHITE}[•] TOOL STATUS. :  \033[1;32mpaid 
 \033[1;32m=====================================================""")
 def linex():
     print('\033[1;37m---------------------------------------------------{WHITE}')
